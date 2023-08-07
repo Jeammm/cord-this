@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500&display=swap');
+
+.App {
+  min-height: 100vh;
+  display:flex;
+  background-color: #282b30;
+  font-family: 'Open Sans', sans-serif;
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #36393e;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #36393e;
+}
