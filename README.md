@@ -1,7 +1,5 @@
 # Cordthis Application Readme
 
-![Cordthis Logo](/path/to/your/logo.png)
-
 Welcome to Cordthis – your ultimate group chat application built with React, NodeJS, Express, and MongoDB, featuring real-time communication powered by WebSocket.io. Cordthis enables seamless and instant messaging among groups, making it easy to stay connected and collaborate effectively.
 
 ## Table of Contents
